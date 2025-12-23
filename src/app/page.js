@@ -438,3 +438,11 @@ export default function Home() {
               </div>
             </div>
             <p className="text-sm sm:text-base text-gray-400 mb-4">
+              Transforming Shopify stores with premium video content and data-driven marketing
+            </p>
+          </div>
+        </div>
+      </footer>
+    </div>
+  );
+}
