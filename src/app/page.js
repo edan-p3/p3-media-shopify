@@ -437,4 +437,4 @@ export default function Home() {
                 <span className="text-xs sm:text-sm font-light ml-1">MEDIA</span>
               </div>
             </div>
-            <p className="text-sm sm:text-base text-gray-400 mb
+            <p className="text-sm sm:text-base text-gray-400 mb>
